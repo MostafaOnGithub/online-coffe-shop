@@ -1,0 +1,29 @@
+#header{
+    background-color: #5A020Cce;
+    color: #fff;
+}
+#head{
+    color: bisque !important;
+}
+.module h2, 
+.module caption,
+ .inline-group h2{
+    background-color:  #881320ce;
+}
+
+div.breadcrumbs{
+    background-color:  #881320ce;
+}
+
+.module h2, .module caption, .inline-group h2{
+    background-color: #881320ce !important;
+    color: #fff !important;
+}
+
+.button, input[type=submit], input[type=button],input.default, .submit-row input, a.button {
+    background-color: #881320ce !important;
+
+}
+#changelist .actions .button{
+    color: #fff !important;
+}
